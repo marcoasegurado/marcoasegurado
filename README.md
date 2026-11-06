@@ -38,6 +38,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomber1234&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/cocomber1234/cocomber1234/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
+</p>
+
 <hr>
 
 ### ✨ Currently vibing
