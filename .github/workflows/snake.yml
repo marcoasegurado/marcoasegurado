@@ -1,6 +1,7 @@
 name: Generate contribution grid snake
 
-on:
+# YAML 1.2 parses a bare `on` as a string; quote it so the triggers key stays "on"
+"on":
   schedule:
     - cron: "0 */6 * * *"   # regenerate every 6 hours
   workflow_dispatch:         # manual "Run workflow" button
