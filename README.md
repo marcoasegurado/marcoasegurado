@@ -16,10 +16,6 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="./tech-stack-animated.svg" alt="Animated tech stack: JavaScript, HTML, CSS, Git" width="600" />
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode" alt="My skills" />
   </a>
@@ -30,16 +26,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=ff6ec7" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomber1234&theme=radical&hide_border=true&background=0d1117&stroke=94a3b8&ring=ff6ec7&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoasegurado&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=ff6ec7" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoasegurado&theme=radical&hide_border=true&background=0d1117&stroke=94a3b8&ring=ff6ec7&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomber1234&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c=marcoasegurado&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/cocomber1234/cocomber1234/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
+  <img src="https://github.com/marcoasegurado/marcoasegurado/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
 </p>
 
 <hr>
