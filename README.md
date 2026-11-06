@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/marcoasegurado/marcoasegurado/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
+   ![GitHub Contribution Snake](https://github.com/marcoasegurado/marcoasegurado/raw/output/github-contribution-grid-snake.gif)
 </p>
 
 <hr>
