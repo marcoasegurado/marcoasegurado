@@ -16,10 +16,6 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="./tech-stack-animated.svg" alt="Animated tech stack: JavaScript, HTML, CSS, Git" width="600" />
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode" alt="My skills" />
   </a>
