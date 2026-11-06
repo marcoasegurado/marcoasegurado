@@ -1,12 +1,12 @@
 
  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20cocomber1234!;I%20build%20things%20with%20code.;Full%20Stack%20Learner" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20marcoasegurado!;I%20build%20things%20with%20code.;Full%20Stack%20Learner" alt="typing" />
 </div>
 
 <p align="center"><em>Full-stack learner who loves clean UIs — and Kang Haerin.</em></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cocomber1234&style=for-the-badge&color=7dd3fc" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=marcoasegurado&style=for-the-badge&color=7dd3fc" alt="Profile views" />
   <img src="https://img.shields.io/badge/Software%20Development-00d4ff?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/UI-UX-ff6ec7?style=for-the-badge&logo=figma" />
 </p>
@@ -30,16 +30,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cocomber1234&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=ff6ec7" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomber1234&theme=radical&hide_border=true&background=0d1117&stroke=94a3b8&ring=ff6ec7&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" width="49%" />
+  <!-- github-readme-stats.vercel.app public instance is paused (DEPLOYMENT_PAUSED); using the official Anurag Kumar Verma demo instance instead -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcoasegurado&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=ff6ec7" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoasegurado&theme=radical&hide_border=true&background=0d1117&stroke=94a3b8&ring=ff6ec7&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomber1234&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcoasegurado&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7dd3fc" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/cocomber1234/cocomber1234/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
+  <img src="https://github.com/marcoasegurado/marcoasegurado/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
 </p>
 
 <hr>
