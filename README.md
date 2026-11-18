@@ -22,13 +22,13 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,cloudflare,git,github,figma&theme=dark&perline=13" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <sub>Also working with <code>Hono</code> · <code>Wrangler</code> · <code>Vitest</code> · <code>Testing Library</code></sub>
-</p>
+| Layer | Stack | Where I use it |
+| :--- | :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/-TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=e2e8f0" alt="TypeScript" /> <img src="https://img.shields.io/badge/-JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=e2e8f0" alt="JavaScript" /> <img src="https://img.shields.io/badge/-HTML5-1f2937?style=flat-square&logo=html5&logoColor=e2e8f0" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1f2937?style=flat-square&logo=css&logoColor=e2e8f0" alt="CSS3" /> | App logic, markup, and styling across all my projects |
+| **Frontend** | <img src="https://img.shields.io/badge/-React-1f2937?style=flat-square&logo=react&logoColor=e2e8f0" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=e2e8f0" alt="Next.js" /> <img src="https://img.shields.io/badge/-Tailwind%20CSS-1f2937?style=flat-square&logo=tailwindcss&logoColor=e2e8f0" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/-Vite-1f2937?style=flat-square&logo=vite&logoColor=e2e8f0" alt="Vite" /> | NEUron, Slotly, and TomatoTick (React + Vite); PassTrack (Next.js + Tailwind) |
+| **Backend & Edge** | <img src="https://img.shields.io/badge/-Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=e2e8f0" alt="Node.js" /> <img src="https://img.shields.io/badge/-Hono-1f2937?style=flat-square&logo=hono&logoColor=e2e8f0" alt="Hono" /> <img src="https://img.shields.io/badge/-Cloudflare%20Workers-1f2937?style=flat-square&logo=cloudflareworkers&logoColor=e2e8f0" alt="Cloudflare Workers" /> | Slotly's API and edge deployment via Wrangler |
+| **Testing** | <img src="https://img.shields.io/badge/-Vitest-1f2937?style=flat-square&logo=vitest&logoColor=e2e8f0" alt="Vitest" /> <img src="https://img.shields.io/badge/-Testing%20Library-1f2937?style=flat-square&logo=testinglibrary&logoColor=e2e8f0" alt="Testing Library" /> | Unit and component tests in NEUron, Slotly, and TomatoTick |
+| **Tools & Design** | <img src="https://img.shields.io/badge/-Git-1f2937?style=flat-square&logo=git&logoColor=e2e8f0" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub%20Actions-1f2937?style=flat-square&logo=githubactions&logoColor=e2e8f0" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/-VS%20Code-1f2937?style=flat-square" alt="VS Code" /> <img src="https://img.shields.io/badge/-Figma-1f2937?style=flat-square&logo=figma&logoColor=e2e8f0" alt="Figma" /> | Version control, this repo's snake workflow, code editor, and UI mockups |
 
 <hr>
 
