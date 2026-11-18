@@ -23,21 +23,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <sub><b>Languages</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Languages" /><br><br>
-  <sub><b>Frontend</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend" /><br><br>
-  <sub><b>Backend &amp; Tooling</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,git,github&theme=dark" alt="Backend and tooling" /><br><br>
-  <sub><b>Design</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,cloudflare,git,github,figma&theme=dark&perline=13" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hono-e2e8f0?style=flat-square&logo=hono&logoColor=0d1117" alt="Hono" />
-  <img src="https://img.shields.io/badge/Wrangler-e2e8f0?style=flat-square&logo=cloudflareworkers&logoColor=0d1117" alt="Wrangler" />
-  <img src="https://img.shields.io/badge/Vitest-e2e8f0?style=flat-square&logo=vitest&logoColor=0d1117" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Testing%20Library-e2e8f0?style=flat-square&logo=testinglibrary&logoColor=0d1117" alt="Testing Library" />
+  <sub>Also working with <code>Hono</code> · <code>Wrangler</code> · <code>Vitest</code> · <code>Testing Library</code></sub>
 </p>
 
 <hr>
